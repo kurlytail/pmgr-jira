@@ -1,0 +1,17 @@
+{
+  "name": "pmgr-jira",
+  "version": "0.0.1",
+  "description": "PMGR JIRA",
+  "dependencies": {
+    "flat": "",
+    "html-to-text": "",
+    "i18n": "",
+    "ip": "",
+    "jira": "^0.9.2",
+    "lodash": "",
+    "node-jira": "^0.9.2",
+    "request-promise": "^4.2.1"
+  },
+  "author": "Ashwin Kamath",
+  "license": "SEE LICENSE IN license.txt"
+}
